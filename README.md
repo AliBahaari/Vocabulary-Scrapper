@@ -5,7 +5,7 @@ This little module, will create sample JSON API due to a collection ID on ***voc
 
 ## Usage
 
-### First, you need to run Flask:
+First, you need to run Flask:
 
 **Bash:**
 ```bash
@@ -26,7 +26,7 @@ or **Powershell**:
  * Running on http://127.0.0.1:5000/
 ```
 
-### Then, open *localhost:5000* and you see a welcome text.
+Then, open *localhost:5000* and you'll see a welcome text.
 
 After that, enter the url below:
 ```bash
@@ -34,4 +34,4 @@ localhost:5000/api/[COLLECTION_ID]
 ```
 For the `[COLLECTION_ID]`, enter the collection ID from **vocabulary.com**.
 
-### Finally, the sample API created based on the collection you've specified is ready!
+Finally, the sample API created based on the collection you've specified is ready!
