@@ -9,19 +9,19 @@ First, you need to run Flask:
 
 **Bash:**
 ```bash
-$ export FLASK_APP=hello
+$ export FLASK_APP=main
 $ flask run
  * Running on http://127.0.0.1:5000/
 ```
 or **CMD**:
 ```bash
-> set FLASK_APP=hello
+> set FLASK_APP=main
 > flask run
  * Running on http://127.0.0.1:5000
 ```
 or **Powershell**:
 ```bash
-> $env:FLASK_APP = "hello"
+> $env:FLASK_APP = "main"
 > flask run
  * Running on http://127.0.0.1:5000/
 ```
