@@ -1,5 +1,5 @@
 
-# Vocabulary-Scrapper
+# Vocabulary Scrapper
 
 This little module, will create sample JSON API due to a collection ID on ***vocabulary.com*** providing different vocabularies for English language learners.
 
